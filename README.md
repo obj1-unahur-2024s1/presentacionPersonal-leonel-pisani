@@ -1,35 +1,11 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# Soy Leonel Pisani
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
-
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Tengo 21 a√±os, termine el secundario en el 2020, en el 2021 me quise notar en ingenier√≠a en computaci√≥n en la UNLAM, intente un par de veces y no pude aprobar el ingreso y de ahi encontr√© la UNAHUR, empec√© la carrera sin saber nada de programaci√≥n y este es mi 4to cuatrimestre en la facu.
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## Sobre mi
+Me gusta jugar al b√°squet, intente anotarme en el taller deportivo de la facu, pero me pusieron en lista de espera porque hab√≠a mucha gente :(
+Siempre me gustaron las computadoras y tuve facilidad para usarlas en comparaci√≥n a mis compa√±eros, por eso eleg√≠ esta carrera, pero como dije antes de programaci√≥n no sab√≠a nada.
+Espero aprobar todas las materias de este cuatrimestre y ver si puedo conseguir alg√∫n trabajo en programaci√≥n cuando termine el cuatrimestre.
+Tambi√©n me gusta ver pel√≠culas y series, de preferencia de ciencia fisi√≥n.
 
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
